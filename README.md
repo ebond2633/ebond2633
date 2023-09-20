@@ -45,3 +45,10 @@ As a Human Services Coordinator, I have cultivated invaluable skills in problem-
 - ISC2 Certified in Cybersecurity
 - AWS Certified Cloud Practitioner
 - Google Project Management
+
+## 🤯 Technical Skills
+
+<p align="left">
+    <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,visual studio" /></a>
+</p>
