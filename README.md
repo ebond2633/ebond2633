@@ -49,7 +49,7 @@ As a Human Services Coordinator, I have cultivated invaluable skills in problem-
 
 ## 🤯 Technical Skills
   <p>
-   <a href="https://github.com/elizabethbond">
+   <a href="https://github.com/ebond2633">
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,visual studio" /></a>
 </p>
 
