@@ -45,6 +45,7 @@ As a Human Services Coordinator, I have cultivated invaluable skills in problem-
 - ISC2 Certified in Cybersecurity
 - AWS Certified Cloud Practitioner
 - Google Project Management
+- AWS Certified Security Specialty 
 
 ## 🤯 Technical Skills
 
