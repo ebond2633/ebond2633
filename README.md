@@ -48,8 +48,10 @@ As a Human Services Coordinator, I have cultivated invaluable skills in problem-
 - AWS Certified Security Specialty 
 
 ## 🤯 Technical Skills
-
-
+  <p>
+   <a href="https://github.com/elizabethbond">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,visual studio" /></a>
+</p>
 
 ## [Capstone Project](https://drive.google.com/drive/folders/12ZwzQr_B3nW-RC-41uIFEHEw9vZUINcb?usp=sharing)
   
